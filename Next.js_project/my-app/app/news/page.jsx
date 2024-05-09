@@ -5,7 +5,6 @@ const News = () => {
   return (
     <div>
       <h1>Hello News</h1>
-      <Link href="/news">Go to News</Link>
     </div>
   );
 };
